@@ -1,7 +1,8 @@
 # do not skid
-import discord
+import discord, asyncio
 from discord.ext import commands
 from discord.ext.commands import Bot
+
 
 token = ""
 prefix = "plsstart!"
