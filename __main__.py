@@ -1,4 +1,3 @@
-# do not skid
 import discord, asyncio
 from discord.ext import commands
 from discord.ext.commands import Bot
@@ -22,6 +21,6 @@ async def start(ctx):
         await ctx.send('pls beg')
         await asyncio.sleep(60)
 
-#pls!start command
+#plsstart!start
 
 bot.run(token, bot=False)
