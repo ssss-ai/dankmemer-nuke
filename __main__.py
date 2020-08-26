@@ -11,8 +11,8 @@ bot.remove_command("help")
 
 @bot.event
 async def on_ready():
-    print("Ready to spam the fuck out of 'pls beg'")
-    print('Created by ZinX, all code by ZinX')
+    print("Ready to spam 'pls beg' lol")
+    print('Created by Cryptos1337. Give Credits if you\'re recording :)')
 
 @bot.command(pass_context=True)
 async def start(ctx):
