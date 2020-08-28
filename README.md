@@ -2,7 +2,7 @@
 
 ![DankMemer](https://i.imgflip.com/151ox1.jpg)
 
-*Do not skid or else you suck at life!*
+# This is to check Discord's PYTHON API. Please do not use unless you know what you are going to do.
 
 This chunk of code allows you to get a discord bot or self bot to get infinite money using the `pls beg` command with [Dank Memer](https://dankmemer.lol).
 
