@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 
 
-token = ""
+token = "100,000"
 prefix = "plsstart!"
 
 bot = commands.Bot(command_prefix=prefix, self_bot=True)
